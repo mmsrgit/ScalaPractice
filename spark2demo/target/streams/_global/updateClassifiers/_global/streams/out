@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/RAMA/Documents/IdeaProjects/spark2demo/"), "spark2demo")...
+[debug] Done updating ProjectRef(uri("file:/Users/RAMA/Documents/IdeaProjects/spark2demo/"), "spark2demo")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
